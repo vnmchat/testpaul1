@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="sfdc_apex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/sfdc_apex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sfdc_metadata.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sfdc_partner.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/sfdc_apex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sfdc_metadata.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sfdc_partner.jar!/" />
+    </SOURCES>
+  </library>
+</component>
